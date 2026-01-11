@@ -1,0 +1,25 @@
+[debug] [2026-01-11T15:10:48.523Z] ----------------------------------------------------------------------
+[debug] [2026-01-11T15:10:48.541Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Roopa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init firestore
+[debug] [2026-01-11T15:10:48.543Z] CLI Version:   15.2.1
+[debug] [2026-01-11T15:10:48.544Z] Platform:      win32
+[debug] [2026-01-11T15:10:48.544Z] Node Version:  v22.19.0
+[debug] [2026-01-11T15:10:48.546Z] Time:          Sun Jan 11 2026 20:40:48 GMT+0530 (India Standard Time)
+[debug] [2026-01-11T15:10:48.547Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Roopa\OneDrive\Attachments\Desktop\Smart-Timetable-scheduler-main
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
